@@ -1,0 +1,41 @@
+Salesman,Product,Area,Sales_MT,Revenue
+John Smith,10W-30 (4T Motor Oil),East Zone,5.05,7575.0
+John Smith,20W-50 (SuperGT),East Zone,14.26,25668.0
+John Smith,15W-40 (TitanTruck Plus),East Zone,12.93,20688.0
+John Smith,Grease (FN-3),East Zone,6.91,13820.0
+John Smith,Industrial (Renolin B),East Zone,6.62,14564.0
+Sarah Johnson,10W-30 (4T Motor Oil),West Zone,7.97,11955.0
+Sarah Johnson,20W-50 (SuperGT),West Zone,3.64,6552.0
+Sarah Johnson,15W-40 (TitanTruck Plus),West Zone,3.75,6000.0
+Sarah Johnson,Grease (FN-3),West Zone,7.35,14700.0
+Sarah Johnson,Industrial (Renolin B),West Zone,6.45,14190.0
+Michael Brown,10W-30 (4T Motor Oil),West Zone,5.49,8235.0
+Michael Brown,20W-50 (SuperGT),West Zone,6.06,10908.0
+Michael Brown,15W-40 (TitanTruck Plus),West Zone,8.15,13040.0
+Michael Brown,Grease (FN-3),West Zone,4.43,8860.0
+Michael Brown,Industrial (Renolin B),West Zone,6.43,14146.0
+Emily Davis,10W-30 (4T Motor Oil),East Zone,13.12,19680.0
+Emily Davis,20W-50 (SuperGT),East Zone,11.39,20502.0
+Emily Davis,15W-40 (TitanTruck Plus),East Zone,9.17,14672.0
+Emily Davis,Grease (FN-3),East Zone,4.95,9900.0
+Emily Davis,Industrial (Renolin B),East Zone,13.92,30624.0
+David Wilson,10W-30 (4T Motor Oil),South Zone,7.63,11445.0
+David Wilson,20W-50 (SuperGT),South Zone,5.67,10206.0
+David Wilson,15W-40 (TitanTruck Plus),South Zone,11.22,17952.0
+David Wilson,Grease (FN-3),South Zone,8.91,17820.0
+David Wilson,Industrial (Renolin B),South Zone,5.89,12958.0
+Jessica Martinez,10W-30 (4T Motor Oil),East Zone,12.77,19155.0
+Jessica Martinez,20W-50 (SuperGT),East Zone,6.88,12384.0
+Jessica Martinez,15W-40 (TitanTruck Plus),East Zone,10.54,16864.0
+Jessica Martinez,Grease (FN-3),East Zone,7.35,14700.0
+Jessica Martinez,Industrial (Renolin B),East Zone,9.24,20328.0
+Robert Taylor,10W-30 (4T Motor Oil),Central Zone,13.78,20670.0
+Robert Taylor,20W-50 (SuperGT),Central Zone,11.95,21510.0
+Robert Taylor,15W-40 (TitanTruck Plus),Central Zone,13.49,21584.0
+Robert Taylor,Grease (FN-3),Central Zone,13.07,26140.0
+Robert Taylor,Industrial (Renolin B),Central Zone,10.29,22638.0
+Lisa Anderson,10W-30 (4T Motor Oil),West Zone,5.41,8115.0
+Lisa Anderson,20W-50 (SuperGT),West Zone,8.19,14742.0
+Lisa Anderson,15W-40 (TitanTruck Plus),West Zone,8.82,14112.0
+Lisa Anderson,Grease (FN-3),West Zone,7.66,15320.0
+Lisa Anderson,Industrial (Renolin B),West Zone,13.19,29018.0
